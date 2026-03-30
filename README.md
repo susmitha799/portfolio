@@ -4,7 +4,7 @@ My personal data analyst portfolio showcasing projects and skills
 
 Welcome to my personal portfolio website!
 
-🔗 Live Website: https://susmitha-data.base44.app
+🔗 Live Website: https://susmitha-insight-19eac5c6.base44.app
 
 ## 👩‍💻 About Me
 Aspiring Data Analyst skilled in Python, SQL, and Power BI.
